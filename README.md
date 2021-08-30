@@ -1,7 +1,6 @@
-- 👋 Hi, I am Florinda, a former  UX Designer, currently pursuing a Front-end Development degree at  Noroff - School of technology and digital media. 
-      I am a quick learner and a self-starter with a passion for design.  
+- 👋 Hi, I am Florinda, a Front end developer and UX Designer.
       As a designer (also a user), I am curious about emerging technology and the design potential behind it. 
-      So far I’ve worked on projects in which I used programming languages like HTML, CSS/SASS, Javascript.
+      So far I’ve worked on projects in which I used programming languages like HTML, CSS/SASS, Javascript, React, Next js.
       I'm also familiar with many tools and frameworks. 
       However, cool tech is not my main driver.
       I care about social issues and want to be able to design products that could be used for everyone.
